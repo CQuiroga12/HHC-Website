@@ -41,3 +41,11 @@ h1{
     line-height: 30px;
     font-family: 'Comfortaa', cursive;
 }
+
+.p5{
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 50px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+}
