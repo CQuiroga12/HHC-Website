@@ -1,0 +1,51 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: navy; 
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Comfortaa', cursive;
+
+}
+.div-1 {
+    text-align: center;
+    word-spacing: 3em;
+    font-size: 30px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.p2 {
+    margin-top: 30px;
+    padding-left: 50px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.p3 {
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 50px;
+    font-family: 'Comfortaa', cursive;
+}
+.one-img{
+    margin-top: 30px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p4{
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 30px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.p5{
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 50px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+}
