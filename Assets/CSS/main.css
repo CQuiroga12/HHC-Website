@@ -1,4 +1,27 @@
-.ha-img{
-    height: 200px;
-    width: 200px;
+.ha-img {
+  height: 200px;
+  width: 200px;
+}
+
+.chris {
+  background-color: rgb(49, 49, 49);
+  width: 100%;
+  color: white;
+  font-family: "Noto Sans SC", sans-serif;
+  font-size: 41px;
+  float: right;
+  text-align: center;
+  border-radius: 20px;
+  position: relative;
+}
+
+.chris p {
+  position: relative;
+  left: 10px;
+}
+#chris-pic {
+  float: left;
+  width: 12%;
+  position: relative;
+  left: 15px;
 }
