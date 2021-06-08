@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 124, 124);
+}
+
+h1{
+    font-size: 100px;
+    margin: 0;
+}
+ul {
+    font-size: 50px;
+    margin: 0;
+    width: 50%;
+    float: left;
+    
+}
+
+li {
+    margin: 150px;
+}
+
+.links {
+    font-size: 30px;
+    position: relative;
+    left: 12px;
+}
+.black {
+    background-color: black;
+    color: white;
+}
+
+.red {
+    background-color: red;
+}
+
+.images {
+    float: right;
+    width: 45%;
+    margin: 20px;
+    position: relative;
+    
+}
